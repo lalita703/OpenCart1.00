@@ -1,0 +1,616 @@
+2025-08-29 00:16:33 [main] INFO  testCases.TC001_AccountRegistrationpage - **** launching Browser  ****
+2025-08-29 00:16:36 [main] INFO  testCases.TC001_AccountRegistrationpage - **** application launched ****
+2025-08-29 00:16:36 [main] INFO  testCases.TC001_AccountRegistrationpage - **** Starting TC001_AccountRegistrationpage ****
+2025-08-29 00:16:41 [main] INFO  testCases.TC001_AccountRegistrationpage - **** Closed TC001_AccountRegistrationpage  ****
+2025-08-29 00:21:28 [main] INFO  testCases.TC001_AccountRegistrationpage - **** launching Browser  ****
+2025-08-29 00:21:29 [main] INFO  testCases.TC001_AccountRegistrationpage - **** application launched ****
+2025-08-29 00:21:29 [main] INFO  testCases.TC001_AccountRegistrationpage - **** Starting TC001_AccountRegistrationpage ****
+2025-08-29 00:21:33 [main] INFO  testCases.TC001_AccountRegistrationpage - **** Closed TC001_AccountRegistrationpage  ****
+2025-08-29 00:25:14 [main] INFO  testCases.TC001_AccountRegistrationpage - **** launching Browser  ****
+2025-08-29 00:25:16 [main] INFO  testCases.TC001_AccountRegistrationpage - **** application launched ****
+2025-08-29 00:25:16 [main] INFO  testCases.TC001_AccountRegistrationpage - **** Starting TC001_AccountRegistrationpage ****
+2025-08-29 00:25:19 [main] INFO  testCases.TC001_AccountRegistrationpage - **** Closed TC001_AccountRegistrationpage  ****
+2025-08-29 16:52:00 [main] INFO  testCases.TC001_AccountRegistrationpage - **** launching Browser  ****
+2025-08-29 16:52:01 [main] INFO  testCases.TC001_AccountRegistrationpage - **** application launched ****
+2025-08-29 16:52:03 [main] INFO  testCases.TC001_AccountRegistrationpage - **** Starting TC001_AccountRegistrationpage ****
+2025-08-29 16:52:07 [main] INFO  testCases.TC001_AccountRegistrationpage - **** Closed TC001_AccountRegistrationpage  ****
+2025-08-29 22:17:38 [main] INFO  testCases.TC001_AccountRegistrationpage - **** launching Browser  ****
+2025-08-29 22:17:41 [main] INFO  testCases.TC001_AccountRegistrationpage - **** application launched ****
+2025-08-29 22:17:42 [main] INFO  testCases.TC001_AccountRegistrationpage - **** Starting TC001_AccountRegistrationpage ****
+2025-08-29 22:17:42 [main] INFO  testCases.TC001_AccountRegistrationpage - clicked on my account Link 
+2025-08-29 22:17:44 [main] INFO  testCases.TC001_AccountRegistrationpage - clicked on Register Link 
+2025-08-29 22:17:44 [main] INFO  testCases.TC001_AccountRegistrationpage - providing customer details....
+2025-08-29 22:17:46 [main] INFO  testCases.TC001_AccountRegistrationpage - Validating expected message
+2025-08-29 22:21:10 [main] INFO  testCases.TC001_AccountRegistrationpage - **** launching Browser  ****
+2025-08-29 22:21:14 [main] INFO  testCases.TC001_AccountRegistrationpage - **** application launched ****
+2025-08-29 22:21:14 [main] INFO  testCases.TC001_AccountRegistrationpage - **** Starting TC001_AccountRegistrationpage ****
+2025-08-29 22:21:14 [main] INFO  testCases.TC001_AccountRegistrationpage - clicked on my account Link 
+2025-08-29 22:21:16 [main] INFO  testCases.TC001_AccountRegistrationpage - clicked on Register Link 
+2025-08-29 22:21:16 [main] INFO  testCases.TC001_AccountRegistrationpage - providing customer details....
+2025-08-29 22:21:18 [main] INFO  testCases.TC001_AccountRegistrationpage - Validating expected message
+2025-08-29 22:22:29 [main] INFO  testCases.TC001_AccountRegistrationpage - **** launching Browser  ****
+2025-08-29 22:22:31 [main] INFO  testCases.TC001_AccountRegistrationpage - **** application launched ****
+2025-08-29 22:22:31 [main] INFO  testCases.TC001_AccountRegistrationpage - **** Starting TC001_AccountRegistrationpage ****
+2025-08-29 22:22:31 [main] INFO  testCases.TC001_AccountRegistrationpage - clicked on my account Link 
+2025-08-29 22:22:32 [main] INFO  testCases.TC001_AccountRegistrationpage - clicked on Register Link 
+2025-08-29 22:22:32 [main] INFO  testCases.TC001_AccountRegistrationpage - providing customer details....
+2025-08-29 22:22:34 [main] INFO  testCases.TC001_AccountRegistrationpage - Validating expected message
+2025-08-29 22:22:34 [main] INFO  testCases.TC001_AccountRegistrationpage - **** Closed TC001_AccountRegistrationpage ****
+2025-08-29 23:51:13 [main] INFO  testCases.TC001_AccountRegistrationTest - **** launching Browser  ****
+2025-08-29 23:51:14 [main] INFO  testCases.TC001_AccountRegistrationTest - **** application launched ****
+2025-08-29 23:51:15 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationpage ****
+2025-08-29 23:51:16 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on my account Link 
+2025-08-29 23:51:17 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on Register Link 
+2025-08-29 23:51:17 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details....
+2025-08-29 23:51:20 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2025-08-29 23:51:20 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed..
+2025-08-29 23:53:41 [main] INFO  testCases.TC001_AccountRegistrationTest - **** launching Browser  ****
+2025-08-29 23:53:43 [main] INFO  testCases.TC001_AccountRegistrationTest - **** application launched ****
+2025-08-29 23:53:43 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationpage ****
+2025-08-29 23:53:43 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on my account Link 
+2025-08-29 23:53:44 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on Register Link 
+2025-08-29 23:53:44 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details....
+2025-08-29 23:53:46 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2025-08-29 23:53:46 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed..
+2025-08-29 23:53:46 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs..
+2025-08-29 23:55:18 [main] INFO  testCases.TC001_AccountRegistrationTest - **** launching Browser  ****
+2025-08-29 23:55:20 [main] INFO  testCases.TC001_AccountRegistrationTest - **** application launched ****
+2025-08-29 23:55:20 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationpage ****
+2025-08-29 23:55:20 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on my account Link 
+2025-08-29 23:55:20 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on Register Link 
+2025-08-29 23:55:20 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details....
+2025-08-29 23:55:23 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2025-08-29 23:55:23 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationpage ****
+2025-08-30 00:31:51 [main] INFO  testCases.TC001_AccountRegistrationTest - **** launching Browser  ****
+2025-08-30 00:31:52 [main] INFO  testCases.TC001_AccountRegistrationTest - **** application launched ****
+2025-08-30 00:31:54 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationpage ****
+2025-08-30 00:31:54 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on my account Link 
+2025-08-30 00:31:55 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on Register Link 
+2025-08-30 00:31:55 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details....
+2025-08-30 00:31:56 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2025-08-30 00:31:57 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationpage ****
+2025-08-30 00:33:45 [main] INFO  testCases.TC001_AccountRegistrationTest - **** launching Browser  ****
+2025-08-30 00:33:48 [main] INFO  testCases.TC001_AccountRegistrationTest - **** application launched ****
+2025-08-30 00:36:23 [main] INFO  testCases.TC001_AccountRegistrationTest - **** launching Browser  ****
+2025-08-30 00:36:25 [main] INFO  testCases.TC001_AccountRegistrationTest - **** application launched ****
+2025-08-30 00:36:25 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationpage ****
+2025-08-30 00:36:26 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on my account Link 
+2025-08-30 00:36:26 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on Register Link 
+2025-08-30 00:36:26 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details....
+2025-08-30 00:36:28 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2025-08-30 00:36:28 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationpage ****
+2025-08-30 00:37:40 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationpage ****
+2025-08-30 00:38:22 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationpage ****
+2025-08-30 00:39:26 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationpage ****
+2025-08-30 00:40:16 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationpage ****
+2025-08-30 00:43:21 [main] INFO  testCases.TC001_AccountRegistrationTest - **** launching Browser  ****
+2025-08-30 00:43:24 [main] INFO  testCases.TC001_AccountRegistrationTest - **** application launched ****
+2025-08-30 00:55:22 [main] INFO  testCases.TC001_AccountRegistrationTest - **** launching Browser  ****
+2025-08-30 00:55:24 [main] INFO  testCases.TC001_AccountRegistrationTest - **** application launched ****
+2025-08-30 00:55:24 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationpage ****
+2025-08-30 00:55:25 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on my account Link 
+2025-08-30 00:55:25 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on Register Link 
+2025-08-30 00:55:25 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details....
+2025-08-30 00:55:27 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2025-08-30 00:55:27 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationpage ****
+2025-08-30 00:55:30 [main] INFO  testCases.TC001_AccountRegistrationTest - **** launching Browser  ****
+2025-08-30 00:55:32 [main] INFO  testCases.TC001_AccountRegistrationTest - **** application launched ****
+2025-08-30 00:55:32 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationpage ****
+2025-08-30 00:55:32 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on my account Link 
+2025-08-30 00:55:33 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on Register Link 
+2025-08-30 00:55:33 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details....
+2025-08-30 00:55:35 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2025-08-30 00:55:35 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationpage ****
+2025-08-30 00:55:38 [main] INFO  testCases.TC001_AccountRegistrationTest - **** launching Browser  ****
+2025-08-30 00:55:39 [main] INFO  testCases.TC001_AccountRegistrationTest - **** application launched ****
+2025-08-30 00:55:39 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationpage ****
+2025-08-30 00:55:40 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on my account Link 
+2025-08-30 00:55:40 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on Register Link 
+2025-08-30 00:55:40 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details....
+2025-08-30 00:55:42 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2025-08-30 00:55:42 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationpage ****
+2025-08-30 01:29:35 [main] INFO  testCases.TC001_AccountRegistrationTest - **** launching Browser  ****
+2025-08-30 01:29:37 [main] INFO  testCases.TC001_AccountRegistrationTest - **** application launched ****
+2025-08-30 01:29:38 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationpage ****
+2025-08-30 01:29:38 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on my account Link 
+2025-08-30 01:29:39 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on Register Link 
+2025-08-30 01:29:39 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details....
+2025-08-30 01:29:42 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2025-08-30 01:29:42 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationpage ****
+2025-08-30 14:34:21 [main] INFO  testCases.TC001_AccountRegistrationTest - **** launching Browser  ****
+2025-08-30 14:34:26 [main] INFO  testCases.TC001_AccountRegistrationTest - **** application launched ****
+2025-08-30 14:34:26 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationpage ****
+2025-08-30 14:34:26 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on my account Link 
+2025-08-30 14:34:27 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on Register Link 
+2025-08-30 14:34:27 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details....
+2025-08-30 14:34:30 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2025-08-30 14:34:30 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationpage ****
+2025-08-30 15:00:20 [main] INFO  testCases.TC002_Login_test - **** launching Browser  ****
+2025-08-30 15:00:24 [main] INFO  testCases.TC002_Login_test - **** application launched ****
+2025-08-30 15:02:45 [main] INFO  testCases.TC002_Login_test - **** launching Browser  ****
+2025-08-30 15:02:47 [main] INFO  testCases.TC002_Login_test - **** application launched ****
+2025-08-30 15:17:16 [main] INFO  testCases.TC002_Login_test - **** launching Browser  ****
+2025-08-30 15:17:19 [main] INFO  testCases.TC002_Login_test - **** application launched ****
+2025-08-30 15:34:20 [main] INFO  testCases.TC002_Login_test - **** launching Browser  ****
+2025-08-30 15:34:22 [main] INFO  testCases.TC002_Login_test - **** application launched ****
+2025-08-30 15:35:27 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** launching Browser  ****
+2025-08-30 15:35:29 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** application launched ****
+2025-08-30 15:35:29 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationpage ****
+2025-08-30 15:35:30 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - clicked on my account Link 
+2025-08-30 15:35:31 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - clicked on Register Link 
+2025-08-30 15:35:31 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - providing customer details....
+2025-08-30 15:35:33 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** launching Browser  ****
+2025-08-30 15:35:33 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2025-08-30 15:35:33 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationpage ****
+2025-08-30 15:35:35 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** application launched ****
+2025-08-30 15:35:35 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationpage ****
+2025-08-30 15:35:35 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - clicked on my account Link 
+2025-08-30 15:35:36 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - clicked on Register Link 
+2025-08-30 15:35:36 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - providing customer details....
+2025-08-30 15:35:38 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2025-08-30 15:35:38 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationpage ****
+2025-08-30 16:26:54 [main] INFO  testCases.TC002_Login_test - **** launching Browser  ****
+2025-08-30 16:26:57 [main] INFO  testCases.TC002_Login_test - **** application launched ****
+2025-08-30 16:26:57 [main] INFO  testCases.TC002_Login_test - *****Starting TC_002_Logintest*****
+2025-08-30 16:27:46 [main] INFO  testCases.TC002_Login_test - **** launching Browser  ****
+2025-08-30 16:27:47 [main] INFO  testCases.TC002_Login_test - **** application launched ****
+2025-08-30 16:27:47 [main] INFO  testCases.TC002_Login_test - *****Starting TC_002_Logintest*****
+2025-08-30 16:28:22 [main] INFO  testCases.TC002_Login_test - **** launching Browser  ****
+2025-08-30 16:28:24 [main] INFO  testCases.TC002_Login_test - **** application launched ****
+2025-08-30 16:28:24 [main] INFO  testCases.TC002_Login_test - *****Starting TC_002_Logintest*****
+2025-08-30 18:42:12 [main] INFO  testCases.TC002_Login_test - **** launching Browser  ****
+2025-08-30 18:42:14 [main] INFO  testCases.TC002_Login_test - **** application launched ****
+2025-08-30 18:42:15 [main] INFO  testCases.TC002_Login_test - *****Starting TC_002_Logintest*****
+2025-08-30 18:46:51 [main] INFO  testCases.TC002_Login_test - **** launching Browser  ****
+2025-08-30 18:46:52 [main] INFO  testCases.TC002_Login_test - **** application launched ****
+2025-08-30 18:46:52 [main] INFO  testCases.TC002_Login_test - *****Starting TC_002_Logintest*****
+2025-08-30 18:46:53 [main] INFO  testCases.TC002_Login_test - Enter Email in The Email text field
+2025-08-30 18:46:53 [main] INFO  testCases.TC002_Login_test - Enter pass in The pass text field
+2025-08-30 18:46:54 [main] INFO  testCases.TC002_Login_test - Click on the login btn
+2025-08-30 18:50:44 [main] INFO  testCases.TC002_Login_test - **** launching Browser  ****
+2025-08-30 18:50:45 [main] INFO  testCases.TC002_Login_test - **** application launched ****
+2025-08-30 18:50:45 [main] INFO  testCases.TC002_Login_test - *****Starting TC_002_Logintest*****
+2025-08-30 18:50:47 [main] INFO  testCases.TC002_Login_test - Enter Email in The Email text field
+2025-08-30 18:50:47 [main] INFO  testCases.TC002_Login_test - Enter pass in The pass text field
+2025-08-30 18:50:47 [main] INFO  testCases.TC002_Login_test - Click on the login btn
+2025-08-30 18:54:55 [main] INFO  testCases.TC002_Login_test - **** launching Browser  ****
+2025-08-30 18:54:56 [main] INFO  testCases.TC002_Login_test - **** application launched ****
+2025-08-30 18:54:56 [main] INFO  testCases.TC002_Login_test - *****Starting TC_002_Logintest*****
+2025-08-30 18:54:57 [main] INFO  testCases.TC002_Login_test - Enter Email in The Email text field
+2025-08-30 18:54:57 [main] INFO  testCases.TC002_Login_test - Enter pass in The pass text field
+2025-08-30 18:54:57 [main] INFO  testCases.TC002_Login_test - Click on the login btn
+2025-08-30 18:56:06 [main] INFO  testCases.TC002_Login_test - **** launching Browser  ****
+2025-08-30 18:56:07 [main] INFO  testCases.TC002_Login_test - **** application launched ****
+2025-08-30 18:56:07 [main] INFO  testCases.TC002_Login_test - *****Starting TC_002_Logintest*****
+2025-08-30 18:56:08 [main] INFO  testCases.TC002_Login_test - Enter Email in The Email text field
+2025-08-30 18:56:08 [main] INFO  testCases.TC002_Login_test - Enter pass in The pass text field
+2025-08-30 18:56:09 [main] INFO  testCases.TC002_Login_test - Click on the login btn
+2025-08-30 18:58:26 [main] INFO  testCases.TC002_Login_test - **** launching Browser  ****
+2025-08-30 18:58:34 [main] INFO  testCases.TC002_Login_test - **** application launched ****
+2025-08-30 18:58:34 [main] INFO  testCases.TC002_Login_test - *****Starting TC_002_Logintest*****
+2025-08-30 18:58:35 [main] INFO  testCases.TC002_Login_test - Enter Email in The Email text field
+2025-08-30 18:58:35 [main] INFO  testCases.TC002_Login_test - Enter pass in The pass text field
+2025-08-30 18:58:35 [main] INFO  testCases.TC002_Login_test - Click on the login btn
+2025-08-30 20:14:39 [main] INFO  testCases.TC002_Login_test - **** launching Browser  ****
+2025-08-30 20:14:40 [main] INFO  testCases.TC002_Login_test - **** application launched ****
+2025-08-30 20:14:40 [main] INFO  testCases.TC002_Login_test - *****Starting TC_002_Logintest*****
+2025-08-30 20:14:41 [main] INFO  testCases.TC002_Login_test - Enter Email in The Email text field
+2025-08-30 20:14:41 [main] INFO  testCases.TC002_Login_test - Enter pass in The pass text field
+2025-08-30 20:14:41 [main] INFO  testCases.TC002_Login_test - Click on the login btn
+2025-08-30 22:12:01 [main] INFO  testCases.TC002_Login_test - **** launching Browser  ****
+2025-08-30 22:12:04 [main] INFO  testCases.TC002_Login_test - **** application launched ****
+2025-08-30 22:12:04 [main] INFO  testCases.TC002_Login_test - *****Starting TC_002_Logintest*****
+2025-08-30 22:12:05 [main] INFO  testCases.TC002_Login_test - Enter Email in The Email text field
+2025-08-30 22:12:05 [main] INFO  testCases.TC002_Login_test - Enter pass in The pass text field
+2025-08-30 22:12:06 [main] INFO  testCases.TC002_Login_test - Click on the login btn
+2025-08-31 02:20:55 [main] INFO  testCases.TC003_LoginDDT - **** launching Browser  ****
+2025-08-31 02:20:55 [main] INFO  testCases.TC003_LoginDDT - **** application launched ****
+2025-08-31 02:26:38 [main] INFO  testCases.TC003_LoginDDT - **** launching Browser  ****
+2025-08-31 02:26:39 [main] INFO  testCases.TC003_LoginDDT - **** application launched ****
+2025-08-31 02:29:50 [main] INFO  testCases.TC003_LoginDDT - **** launching Browser  ****
+2025-08-31 02:29:51 [main] INFO  testCases.TC003_LoginDDT - **** application launched ****
+2025-08-31 02:32:37 [main] INFO  testCases.TC003_LoginDDT - **** launching Browser  ****
+2025-08-31 02:32:38 [main] INFO  testCases.TC003_LoginDDT - **** application launched ****
+2025-08-31 02:34:30 [main] INFO  testCases.TC003_LoginDDT - **** launching Browser  ****
+2025-08-31 02:34:31 [main] INFO  testCases.TC003_LoginDDT - **** application launched ****
+2025-08-31 02:36:24 [main] INFO  testCases.TC003_LoginDDT - **** launching Browser  ****
+2025-08-31 02:36:26 [main] INFO  testCases.TC003_LoginDDT - **** application launched ****
+2025-08-31 02:39:18 [main] INFO  testCases.TC003_LoginDDT - **** launching Browser  ****
+2025-08-31 02:39:19 [main] INFO  testCases.TC003_LoginDDT - **** application launched ****
+2025-08-31 02:44:15 [main] INFO  testCases.TC003_LoginDDT - **** launching Browser  ****
+2025-08-31 02:44:17 [main] INFO  testCases.TC003_LoginDDT - **** application launched ****
+2025-08-31 02:51:46 [main] INFO  testCases.TC003_LoginDDT - **** launching Browser  ****
+2025-08-31 02:51:46 [main] INFO  testCases.TC003_LoginDDT - **** application launched ****
+2025-08-31 02:52:43 [main] INFO  testCases.TC003_LoginDDT - **** launching Browser  ****
+2025-08-31 02:52:44 [main] INFO  testCases.TC003_LoginDDT - **** application launched ****
+2025-08-31 02:52:44 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC_003_LogintDDT*****
+2025-08-31 02:52:45 [main] INFO  testCases.TC003_LoginDDT - *****Click on my account*****
+2025-08-31 02:52:46 [main] INFO  testCases.TC003_LoginDDT - Enter Email in The Email text field
+2025-08-31 02:52:46 [main] INFO  testCases.TC003_LoginDDT - Enter pass in The pass text field
+2025-08-31 02:52:47 [main] INFO  testCases.TC003_LoginDDT - Click on the login btn
+2025-08-31 02:52:48 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC_003_LoginDDT*****
+2025-08-31 02:52:48 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC_003_LogintDDT*****
+2025-08-31 02:52:48 [main] INFO  testCases.TC003_LoginDDT - *****Click on my account*****
+2025-08-31 02:52:49 [main] INFO  testCases.TC003_LoginDDT - Enter Email in The Email text field
+2025-08-31 02:52:49 [main] INFO  testCases.TC003_LoginDDT - Enter pass in The pass text field
+2025-08-31 02:52:49 [main] INFO  testCases.TC003_LoginDDT - Click on the login btn
+2025-08-31 02:52:51 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC_003_LogintDDT*****
+2025-08-31 02:52:51 [main] INFO  testCases.TC003_LoginDDT - *****Click on my account*****
+2025-08-31 02:52:52 [main] INFO  testCases.TC003_LoginDDT - Enter Email in The Email text field
+2025-08-31 02:52:53 [main] INFO  testCases.TC003_LoginDDT - Enter pass in The pass text field
+2025-08-31 02:52:54 [main] INFO  testCases.TC003_LoginDDT - Click on the login btn
+2025-08-31 02:52:55 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC_003_LogintDDT*****
+2025-08-31 02:52:55 [main] INFO  testCases.TC003_LoginDDT - *****Click on my account*****
+2025-08-31 02:52:56 [main] INFO  testCases.TC003_LoginDDT - Enter Email in The Email text field
+2025-08-31 02:52:56 [main] INFO  testCases.TC003_LoginDDT - Enter pass in The pass text field
+2025-08-31 02:52:57 [main] INFO  testCases.TC003_LoginDDT - Click on the login btn
+2025-08-31 02:52:58 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC_003_LogintDDT*****
+2025-08-31 02:52:58 [main] INFO  testCases.TC003_LoginDDT - *****Click on my account*****
+2025-08-31 02:52:59 [main] INFO  testCases.TC003_LoginDDT - Enter Email in The Email text field
+2025-08-31 02:52:59 [main] INFO  testCases.TC003_LoginDDT - Enter pass in The pass text field
+2025-08-31 02:53:01 [main] INFO  testCases.TC003_LoginDDT - Click on the login btn
+2025-08-31 02:53:01 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC_003_LoginDDT*****
+2025-08-31 02:55:05 [main] INFO  testCases.TC003_LoginDDT - **** launching Browser  ****
+2025-08-31 02:55:06 [main] INFO  testCases.TC003_LoginDDT - **** application launched ****
+2025-08-31 02:56:12 [main] INFO  testCases.TC003_LoginDDT - **** launching Browser  ****
+2025-08-31 02:56:14 [main] INFO  testCases.TC003_LoginDDT - **** application launched ****
+2025-08-31 02:56:15 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC_003_LogintDDT*****
+2025-08-31 02:56:15 [main] INFO  testCases.TC003_LoginDDT - *****Click on my account*****
+2025-08-31 02:56:16 [main] INFO  testCases.TC003_LoginDDT - Enter Email in The Email text field
+2025-08-31 02:56:16 [main] INFO  testCases.TC003_LoginDDT - Enter pass in The pass text field
+2025-08-31 02:56:16 [main] INFO  testCases.TC003_LoginDDT - Click on the login btn
+2025-08-31 02:56:18 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC_003_LoginDDT*****
+2025-08-31 02:56:18 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC_003_LogintDDT*****
+2025-08-31 02:56:18 [main] INFO  testCases.TC003_LoginDDT - *****Click on my account*****
+2025-08-31 02:56:19 [main] INFO  testCases.TC003_LoginDDT - Enter Email in The Email text field
+2025-08-31 02:56:19 [main] INFO  testCases.TC003_LoginDDT - Enter pass in The pass text field
+2025-08-31 02:56:20 [main] INFO  testCases.TC003_LoginDDT - Click on the login btn
+2025-08-31 02:56:21 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC_003_LogintDDT*****
+2025-08-31 02:56:21 [main] INFO  testCases.TC003_LoginDDT - *****Click on my account*****
+2025-08-31 02:56:22 [main] INFO  testCases.TC003_LoginDDT - Enter Email in The Email text field
+2025-08-31 02:56:22 [main] INFO  testCases.TC003_LoginDDT - Enter pass in The pass text field
+2025-08-31 02:56:24 [main] INFO  testCases.TC003_LoginDDT - Click on the login btn
+2025-08-31 02:56:25 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC_003_LogintDDT*****
+2025-08-31 02:56:25 [main] INFO  testCases.TC003_LoginDDT - *****Click on my account*****
+2025-08-31 02:56:26 [main] INFO  testCases.TC003_LoginDDT - Enter Email in The Email text field
+2025-08-31 02:56:26 [main] INFO  testCases.TC003_LoginDDT - Enter pass in The pass text field
+2025-08-31 02:56:27 [main] INFO  testCases.TC003_LoginDDT - Click on the login btn
+2025-08-31 02:56:28 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC_003_LogintDDT*****
+2025-08-31 02:56:28 [main] INFO  testCases.TC003_LoginDDT - *****Click on my account*****
+2025-08-31 02:56:29 [main] INFO  testCases.TC003_LoginDDT - Enter Email in The Email text field
+2025-08-31 02:56:29 [main] INFO  testCases.TC003_LoginDDT - Enter pass in The pass text field
+2025-08-31 02:56:31 [main] INFO  testCases.TC003_LoginDDT - Click on the login btn
+2025-08-31 02:56:32 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC_003_LoginDDT*****
+2025-09-01 01:06:51 [main] INFO  testCases.TC003_LoginDDT - **** launching Browser  ****
+2025-09-01 01:06:53 [main] INFO  testCases.TC003_LoginDDT - **** application launched ****
+2025-09-01 01:06:53 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC_003_LogintDDT*****
+2025-09-01 01:06:53 [main] INFO  testCases.TC003_LoginDDT - *****Click on my account*****
+2025-09-01 01:06:54 [main] INFO  testCases.TC003_LoginDDT - Enter Email in The Email text field
+2025-09-01 01:06:54 [main] INFO  testCases.TC003_LoginDDT - Enter pass in The pass text field
+2025-09-01 01:06:55 [main] INFO  testCases.TC003_LoginDDT - Click on the login btn
+2025-09-01 01:06:56 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC_003_LoginDDT*****
+2025-09-01 01:06:56 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC_003_LogintDDT*****
+2025-09-01 01:06:56 [main] INFO  testCases.TC003_LoginDDT - *****Click on my account*****
+2025-09-01 01:06:57 [main] INFO  testCases.TC003_LoginDDT - Enter Email in The Email text field
+2025-09-01 01:06:57 [main] INFO  testCases.TC003_LoginDDT - Enter pass in The pass text field
+2025-09-01 01:06:59 [main] INFO  testCases.TC003_LoginDDT - Click on the login btn
+2025-09-01 01:07:00 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC_003_LogintDDT*****
+2025-09-01 01:07:00 [main] INFO  testCases.TC003_LoginDDT - *****Click on my account*****
+2025-09-01 01:07:01 [main] INFO  testCases.TC003_LoginDDT - Enter Email in The Email text field
+2025-09-01 01:07:01 [main] INFO  testCases.TC003_LoginDDT - Enter pass in The pass text field
+2025-09-01 01:07:02 [main] INFO  testCases.TC003_LoginDDT - Click on the login btn
+2025-09-01 01:07:03 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC_003_LogintDDT*****
+2025-09-01 01:07:03 [main] INFO  testCases.TC003_LoginDDT - *****Click on my account*****
+2025-09-01 01:07:04 [main] INFO  testCases.TC003_LoginDDT - Enter Email in The Email text field
+2025-09-01 01:07:04 [main] INFO  testCases.TC003_LoginDDT - Enter pass in The pass text field
+2025-09-01 01:07:05 [main] INFO  testCases.TC003_LoginDDT - Click on the login btn
+2025-09-01 01:07:06 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC_003_LogintDDT*****
+2025-09-01 01:07:06 [main] INFO  testCases.TC003_LoginDDT - *****Click on my account*****
+2025-09-01 01:07:07 [main] INFO  testCases.TC003_LoginDDT - Enter Email in The Email text field
+2025-09-01 01:07:07 [main] INFO  testCases.TC003_LoginDDT - Enter pass in The pass text field
+2025-09-01 01:07:08 [main] INFO  testCases.TC003_LoginDDT - Click on the login btn
+2025-09-01 01:07:09 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC_003_LoginDDT*****
+2025-09-01 01:10:26 [main] INFO  testCases.TC003_LoginDDT - **** launching Browser  ****
+2025-09-01 01:10:28 [main] INFO  testCases.TC003_LoginDDT - **** application launched ****
+2025-09-01 01:10:28 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC_003_LogintDDT*****
+2025-09-01 01:10:29 [main] INFO  testCases.TC003_LoginDDT - *****Click on my account*****
+2025-09-01 01:10:29 [main] INFO  testCases.TC003_LoginDDT - Enter Email in The Email text field
+2025-09-01 01:10:30 [main] INFO  testCases.TC003_LoginDDT - Enter pass in The pass text field
+2025-09-01 01:10:30 [main] INFO  testCases.TC003_LoginDDT - Click on the login btn
+2025-09-01 01:10:32 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC_003_LoginDDT*****
+2025-09-01 01:10:32 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC_003_LogintDDT*****
+2025-09-01 01:10:32 [main] INFO  testCases.TC003_LoginDDT - *****Click on my account*****
+2025-09-01 01:10:33 [main] INFO  testCases.TC003_LoginDDT - Enter Email in The Email text field
+2025-09-01 01:10:33 [main] INFO  testCases.TC003_LoginDDT - Enter pass in The pass text field
+2025-09-01 01:10:34 [main] INFO  testCases.TC003_LoginDDT - Click on the login btn
+2025-09-01 01:10:36 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC_003_LogintDDT*****
+2025-09-01 01:10:36 [main] INFO  testCases.TC003_LoginDDT - *****Click on my account*****
+2025-09-01 01:10:37 [main] INFO  testCases.TC003_LoginDDT - Enter Email in The Email text field
+2025-09-01 01:10:37 [main] INFO  testCases.TC003_LoginDDT - Enter pass in The pass text field
+2025-09-01 01:10:38 [main] INFO  testCases.TC003_LoginDDT - Click on the login btn
+2025-09-01 01:10:40 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC_003_LogintDDT*****
+2025-09-01 01:10:40 [main] INFO  testCases.TC003_LoginDDT - *****Click on my account*****
+2025-09-01 01:10:41 [main] INFO  testCases.TC003_LoginDDT - Enter Email in The Email text field
+2025-09-01 01:10:41 [main] INFO  testCases.TC003_LoginDDT - Enter pass in The pass text field
+2025-09-01 01:10:42 [main] INFO  testCases.TC003_LoginDDT - Click on the login btn
+2025-09-01 01:10:43 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC_003_LogintDDT*****
+2025-09-01 01:10:43 [main] INFO  testCases.TC003_LoginDDT - *****Click on my account*****
+2025-09-01 01:10:44 [main] INFO  testCases.TC003_LoginDDT - Enter Email in The Email text field
+2025-09-01 01:10:44 [main] INFO  testCases.TC003_LoginDDT - Enter pass in The pass text field
+2025-09-01 01:10:45 [main] INFO  testCases.TC003_LoginDDT - Click on the login btn
+2025-09-01 01:10:46 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC_003_LoginDDT*****
+2025-09-01 01:14:26 [main] INFO  testCases.TC003_LoginDDT - **** launching Browser  ****
+2025-09-01 01:14:36 [main] INFO  testCases.TC003_LoginDDT - **** application launched ****
+2025-09-01 01:14:36 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC_003_LogintDDT*****
+2025-09-01 01:14:36 [main] INFO  testCases.TC003_LoginDDT - *****Click on my account*****
+2025-09-01 01:14:37 [main] INFO  testCases.TC003_LoginDDT - Enter Email in The Email text field
+2025-09-01 01:14:37 [main] INFO  testCases.TC003_LoginDDT - Enter pass in The pass text field
+2025-09-01 01:14:40 [main] INFO  testCases.TC003_LoginDDT - Click on the login btn
+2025-09-01 01:14:41 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC_003_LoginDDT*****
+2025-09-01 01:14:41 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC_003_LogintDDT*****
+2025-09-01 01:14:41 [main] INFO  testCases.TC003_LoginDDT - *****Click on my account*****
+2025-09-01 01:14:42 [main] INFO  testCases.TC003_LoginDDT - Enter Email in The Email text field
+2025-09-01 01:14:42 [main] INFO  testCases.TC003_LoginDDT - Enter pass in The pass text field
+2025-09-01 01:14:43 [main] INFO  testCases.TC003_LoginDDT - Click on the login btn
+2025-09-01 01:14:45 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC_003_LogintDDT*****
+2025-09-01 01:14:45 [main] INFO  testCases.TC003_LoginDDT - *****Click on my account*****
+2025-09-01 01:14:45 [main] INFO  testCases.TC003_LoginDDT - Enter Email in The Email text field
+2025-09-01 01:14:46 [main] INFO  testCases.TC003_LoginDDT - Enter pass in The pass text field
+2025-09-01 01:14:47 [main] INFO  testCases.TC003_LoginDDT - Click on the login btn
+2025-09-01 01:14:48 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC_003_LogintDDT*****
+2025-09-01 01:14:49 [main] INFO  testCases.TC003_LoginDDT - *****Click on my account*****
+2025-09-01 01:14:49 [main] INFO  testCases.TC003_LoginDDT - Enter Email in The Email text field
+2025-09-01 01:14:50 [main] INFO  testCases.TC003_LoginDDT - Enter pass in The pass text field
+2025-09-01 01:14:51 [main] INFO  testCases.TC003_LoginDDT - Click on the login btn
+2025-09-01 01:14:52 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC_003_LogintDDT*****
+2025-09-01 01:14:52 [main] INFO  testCases.TC003_LoginDDT - *****Click on my account*****
+2025-09-01 01:14:53 [main] INFO  testCases.TC003_LoginDDT - Enter Email in The Email text field
+2025-09-01 01:14:53 [main] INFO  testCases.TC003_LoginDDT - Enter pass in The pass text field
+2025-09-01 01:14:53 [main] INFO  testCases.TC003_LoginDDT - Click on the login btn
+2025-09-01 01:14:55 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC_003_LoginDDT*****
+2025-09-01 01:16:56 [main] INFO  testCases.TC003_LoginDDT - **** launching Browser  ****
+2025-09-01 01:16:59 [main] INFO  testCases.TC003_LoginDDT - **** application launched ****
+2025-09-01 01:16:59 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC_003_LogintDDT*****
+2025-09-01 01:16:59 [main] INFO  testCases.TC003_LoginDDT - *****Click on my account*****
+2025-09-01 01:17:00 [main] INFO  testCases.TC003_LoginDDT - Enter Email in The Email text field
+2025-09-01 01:17:00 [main] INFO  testCases.TC003_LoginDDT - Enter pass in The pass text field
+2025-09-01 01:17:00 [main] INFO  testCases.TC003_LoginDDT - Click on the login btn
+2025-09-01 01:17:03 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC_003_LogintDDT*****
+2025-09-01 01:17:03 [main] INFO  testCases.TC003_LoginDDT - *****Click on my account*****
+2025-09-01 01:17:03 [main] INFO  testCases.TC003_LoginDDT - Enter Email in The Email text field
+2025-09-01 01:17:03 [main] INFO  testCases.TC003_LoginDDT - Enter pass in The pass text field
+2025-09-01 01:17:04 [main] INFO  testCases.TC003_LoginDDT - Click on the login btn
+2025-09-01 01:17:06 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC_003_LogintDDT*****
+2025-09-01 01:17:06 [main] INFO  testCases.TC003_LoginDDT - *****Click on my account*****
+2025-09-01 01:17:06 [main] INFO  testCases.TC003_LoginDDT - Enter Email in The Email text field
+2025-09-01 01:17:07 [main] INFO  testCases.TC003_LoginDDT - Enter pass in The pass text field
+2025-09-01 01:17:08 [main] INFO  testCases.TC003_LoginDDT - Click on the login btn
+2025-09-01 01:19:28 [main] INFO  testCases.TC003_LoginDDT - **** launching Browser  ****
+2025-09-01 01:19:30 [main] INFO  testCases.TC003_LoginDDT - **** application launched ****
+2025-09-01 01:19:30 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC_003_LogintDDT*****
+2025-09-01 01:19:30 [main] INFO  testCases.TC003_LoginDDT - *****Click on my account*****
+2025-09-01 01:19:31 [main] INFO  testCases.TC003_LoginDDT - Enter Email in The Email text field
+2025-09-01 01:19:31 [main] INFO  testCases.TC003_LoginDDT - Enter pass in The pass text field
+2025-09-01 01:19:32 [main] INFO  testCases.TC003_LoginDDT - Click on the login btn
+2025-09-01 01:19:33 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC_003_LoginDDT*****
+2025-09-01 01:19:33 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC_003_LogintDDT*****
+2025-09-01 01:19:33 [main] INFO  testCases.TC003_LoginDDT - *****Click on my account*****
+2025-09-01 01:19:34 [main] INFO  testCases.TC003_LoginDDT - Enter Email in The Email text field
+2025-09-01 01:19:34 [main] INFO  testCases.TC003_LoginDDT - Enter pass in The pass text field
+2025-09-01 01:19:34 [main] INFO  testCases.TC003_LoginDDT - Click on the login btn
+2025-09-01 01:19:37 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC_003_LogintDDT*****
+2025-09-01 01:19:37 [main] INFO  testCases.TC003_LoginDDT - *****Click on my account*****
+2025-09-01 01:19:37 [main] INFO  testCases.TC003_LoginDDT - Enter Email in The Email text field
+2025-09-01 01:19:38 [main] INFO  testCases.TC003_LoginDDT - Enter pass in The pass text field
+2025-09-01 01:19:39 [main] INFO  testCases.TC003_LoginDDT - Click on the login btn
+2025-09-01 01:19:40 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC_003_LogintDDT*****
+2025-09-01 01:19:40 [main] INFO  testCases.TC003_LoginDDT - *****Click on my account*****
+2025-09-01 01:19:40 [main] INFO  testCases.TC003_LoginDDT - Enter Email in The Email text field
+2025-09-01 01:19:41 [main] INFO  testCases.TC003_LoginDDT - Enter pass in The pass text field
+2025-09-01 01:19:42 [main] INFO  testCases.TC003_LoginDDT - Click on the login btn
+2025-09-01 01:19:43 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC_003_LogintDDT*****
+2025-09-01 01:19:43 [main] INFO  testCases.TC003_LoginDDT - *****Click on my account*****
+2025-09-01 01:19:43 [main] INFO  testCases.TC003_LoginDDT - Enter Email in The Email text field
+2025-09-01 01:19:44 [main] INFO  testCases.TC003_LoginDDT - Enter pass in The pass text field
+2025-09-01 01:19:45 [main] INFO  testCases.TC003_LoginDDT - Click on the login btn
+2025-09-01 01:19:46 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC_003_LoginDDT*****
+2025-09-01 01:22:24 [main] INFO  testCases.TC003_LoginDDT - **** launching Browser  ****
+2025-09-01 01:22:26 [main] INFO  testCases.TC003_LoginDDT - **** application launched ****
+2025-09-01 01:22:26 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC_003_LogintDDT*****
+2025-09-01 01:22:26 [main] INFO  testCases.TC003_LoginDDT - *****Click on my account*****
+2025-09-01 01:22:27 [main] INFO  testCases.TC003_LoginDDT - Enter Email in The Email text field
+2025-09-01 01:22:27 [main] INFO  testCases.TC003_LoginDDT - Enter pass in The pass text field
+2025-09-01 01:22:27 [main] INFO  testCases.TC003_LoginDDT - Click on the login btn
+2025-09-01 01:22:39 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC_003_LogintDDT*****
+2025-09-01 01:22:39 [main] INFO  testCases.TC003_LoginDDT - *****Click on my account*****
+2025-09-01 01:22:40 [main] INFO  testCases.TC003_LoginDDT - Enter Email in The Email text field
+2025-09-01 01:22:40 [main] INFO  testCases.TC003_LoginDDT - Enter pass in The pass text field
+2025-09-01 01:22:40 [main] INFO  testCases.TC003_LoginDDT - Click on the login btn
+2025-09-01 01:22:51 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC_003_LoginDDT*****
+2025-09-01 01:22:51 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC_003_LogintDDT*****
+2025-09-01 01:22:51 [main] INFO  testCases.TC003_LoginDDT - *****Click on my account*****
+2025-09-01 01:22:52 [main] INFO  testCases.TC003_LoginDDT - Enter Email in The Email text field
+2025-09-01 01:22:52 [main] INFO  testCases.TC003_LoginDDT - Enter pass in The pass text field
+2025-09-01 01:22:53 [main] INFO  testCases.TC003_LoginDDT - Click on the login btn
+2025-09-01 01:23:03 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC_003_LoginDDT*****
+2025-09-01 01:23:03 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC_003_LogintDDT*****
+2025-09-01 01:23:03 [main] INFO  testCases.TC003_LoginDDT - *****Click on my account*****
+2025-09-01 01:23:04 [main] INFO  testCases.TC003_LoginDDT - Enter Email in The Email text field
+2025-09-01 01:23:04 [main] INFO  testCases.TC003_LoginDDT - Enter pass in The pass text field
+2025-09-01 01:23:05 [main] INFO  testCases.TC003_LoginDDT - Click on the login btn
+2025-09-01 01:23:15 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC_003_LoginDDT*****
+2025-09-01 01:23:15 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC_003_LogintDDT*****
+2025-09-01 01:23:15 [main] INFO  testCases.TC003_LoginDDT - *****Click on my account*****
+2025-09-01 01:23:16 [main] INFO  testCases.TC003_LoginDDT - Enter Email in The Email text field
+2025-09-01 01:23:16 [main] INFO  testCases.TC003_LoginDDT - Enter pass in The pass text field
+2025-09-01 01:23:17 [main] INFO  testCases.TC003_LoginDDT - Click on the login btn
+2025-09-01 01:30:04 [main] INFO  testCases.TC003_LoginDDT - **** launching Browser  ****
+2025-09-01 01:30:08 [main] INFO  testCases.TC003_LoginDDT - **** application launched ****
+2025-09-01 01:30:08 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC_003_LogintDDT*****
+2025-09-01 01:30:09 [main] INFO  testCases.TC003_LoginDDT - *****Click on my account*****
+2025-09-01 01:30:10 [main] INFO  testCases.TC003_LoginDDT - Enter Email in The Email text field
+2025-09-01 01:30:10 [main] INFO  testCases.TC003_LoginDDT - Enter pass in The pass text field
+2025-09-01 01:30:13 [main] INFO  testCases.TC003_LoginDDT - Click on the login btn
+2025-09-01 01:30:14 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC_003_LoginDDT*****
+2025-09-01 01:30:14 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC_003_LogintDDT*****
+2025-09-01 01:30:14 [main] INFO  testCases.TC003_LoginDDT - *****Click on my account*****
+2025-09-01 01:30:15 [main] INFO  testCases.TC003_LoginDDT - Enter Email in The Email text field
+2025-09-01 01:30:15 [main] INFO  testCases.TC003_LoginDDT - Enter pass in The pass text field
+2025-09-01 01:30:16 [main] INFO  testCases.TC003_LoginDDT - Click on the login btn
+2025-09-01 01:30:26 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC_003_LoginDDT*****
+2025-09-01 01:30:26 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC_003_LogintDDT*****
+2025-09-01 01:30:26 [main] INFO  testCases.TC003_LoginDDT - *****Click on my account*****
+2025-09-01 01:30:27 [main] INFO  testCases.TC003_LoginDDT - Enter Email in The Email text field
+2025-09-01 01:30:27 [main] INFO  testCases.TC003_LoginDDT - Enter pass in The pass text field
+2025-09-01 01:30:29 [main] INFO  testCases.TC003_LoginDDT - Click on the login btn
+2025-09-01 01:30:39 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC_003_LoginDDT*****
+2025-09-01 01:30:39 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC_003_LogintDDT*****
+2025-09-01 01:30:39 [main] INFO  testCases.TC003_LoginDDT - *****Click on my account*****
+2025-09-01 01:30:40 [main] INFO  testCases.TC003_LoginDDT - Enter Email in The Email text field
+2025-09-01 01:30:40 [main] INFO  testCases.TC003_LoginDDT - Enter pass in The pass text field
+2025-09-01 01:30:40 [main] INFO  testCases.TC003_LoginDDT - Click on the login btn
+2025-09-01 01:30:51 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC_003_LoginDDT*****
+2025-09-01 01:30:51 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC_003_LogintDDT*****
+2025-09-01 01:30:51 [main] INFO  testCases.TC003_LoginDDT - *****Click on my account*****
+2025-09-01 01:30:52 [main] INFO  testCases.TC003_LoginDDT - Enter Email in The Email text field
+2025-09-01 01:30:52 [main] INFO  testCases.TC003_LoginDDT - Enter pass in The pass text field
+2025-09-01 01:30:53 [main] INFO  testCases.TC003_LoginDDT - Click on the login btn
+2025-09-01 01:32:51 [main] INFO  testCases.TC003_LoginDDT - **** launching Browser  ****
+2025-09-01 01:32:52 [main] INFO  testCases.TC003_LoginDDT - **** application launched ****
+2025-09-01 01:32:52 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC_003_LogintDDT*****
+2025-09-01 01:32:53 [main] INFO  testCases.TC003_LoginDDT - *****Click on my account*****
+2025-09-01 01:32:54 [main] INFO  testCases.TC003_LoginDDT - Enter Email in The Email text field
+2025-09-01 01:32:54 [main] INFO  testCases.TC003_LoginDDT - Enter pass in The pass text field
+2025-09-01 01:32:55 [main] INFO  testCases.TC003_LoginDDT - Click on the login btn
+2025-09-01 01:32:55 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC_003_LoginDDT*****
+2025-09-01 01:32:55 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC_003_LogintDDT*****
+2025-09-01 01:32:55 [main] INFO  testCases.TC003_LoginDDT - *****Click on my account*****
+2025-09-01 01:32:56 [main] INFO  testCases.TC003_LoginDDT - Enter Email in The Email text field
+2025-09-01 01:32:56 [main] INFO  testCases.TC003_LoginDDT - Enter pass in The pass text field
+2025-09-01 01:32:58 [main] INFO  testCases.TC003_LoginDDT - Click on the login btn
+2025-09-01 01:33:08 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC_003_LoginDDT*****
+2025-09-01 01:33:08 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC_003_LogintDDT*****
+2025-09-01 01:33:08 [main] INFO  testCases.TC003_LoginDDT - *****Click on my account*****
+2025-09-01 01:33:09 [main] INFO  testCases.TC003_LoginDDT - Enter Email in The Email text field
+2025-09-01 01:33:09 [main] INFO  testCases.TC003_LoginDDT - Enter pass in The pass text field
+2025-09-01 01:33:10 [main] INFO  testCases.TC003_LoginDDT - Click on the login btn
+2025-09-01 01:33:11 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC_003_LogintDDT*****
+2025-09-01 01:33:11 [main] INFO  testCases.TC003_LoginDDT - *****Click on my account*****
+2025-09-01 01:33:12 [main] INFO  testCases.TC003_LoginDDT - Enter Email in The Email text field
+2025-09-01 01:33:12 [main] INFO  testCases.TC003_LoginDDT - Enter pass in The pass text field
+2025-09-01 01:33:13 [main] INFO  testCases.TC003_LoginDDT - Click on the login btn
+2025-09-01 01:33:23 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC_003_LoginDDT*****
+2025-09-01 01:33:23 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC_003_LogintDDT*****
+2025-09-01 01:33:23 [main] INFO  testCases.TC003_LoginDDT - *****Click on my account*****
+2025-09-01 01:33:24 [main] INFO  testCases.TC003_LoginDDT - Enter Email in The Email text field
+2025-09-01 01:33:24 [main] INFO  testCases.TC003_LoginDDT - Enter pass in The pass text field
+2025-09-01 01:33:25 [main] INFO  testCases.TC003_LoginDDT - Click on the login btn
+2025-09-02 00:09:51 [main] INFO  testCases.TC003_LoginDDT - **** launching Browser  ****
+2025-09-02 00:10:36 [main] INFO  testCases.TC003_LoginDDT - **** launching Browser  ****
+2025-09-02 00:10:37 [main] INFO  testCases.TC003_LoginDDT - **** application launched ****
+2025-09-02 00:10:37 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC_003_LogintDDT*****
+2025-09-02 00:10:38 [main] INFO  testCases.TC003_LoginDDT - *****Click on my account*****
+2025-09-02 00:10:39 [main] INFO  testCases.TC003_LoginDDT - Enter Email in The Email text field
+2025-09-02 00:10:39 [main] INFO  testCases.TC003_LoginDDT - Enter pass in The pass text field
+2025-09-02 00:10:41 [main] INFO  testCases.TC003_LoginDDT - Click on the login btn
+2025-09-02 00:10:41 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC_003_LoginDDT*****
+2025-09-02 00:10:41 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC_003_LogintDDT*****
+2025-09-02 00:10:41 [main] INFO  testCases.TC003_LoginDDT - *****Click on my account*****
+2025-09-02 00:10:42 [main] INFO  testCases.TC003_LoginDDT - Enter Email in The Email text field
+2025-09-02 00:10:42 [main] INFO  testCases.TC003_LoginDDT - Enter pass in The pass text field
+2025-09-02 00:10:43 [main] INFO  testCases.TC003_LoginDDT - Click on the login btn
+2025-09-02 00:10:48 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC_003_LoginDDT*****
+2025-09-02 00:10:48 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC_003_LogintDDT*****
+2025-09-02 00:10:48 [main] INFO  testCases.TC003_LoginDDT - *****Click on my account*****
+2025-09-02 00:10:49 [main] INFO  testCases.TC003_LoginDDT - Enter Email in The Email text field
+2025-09-02 00:10:49 [main] INFO  testCases.TC003_LoginDDT - Enter pass in The pass text field
+2025-09-02 00:10:49 [main] INFO  testCases.TC003_LoginDDT - Click on the login btn
+2025-09-02 00:10:51 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC_003_LogintDDT*****
+2025-09-02 00:10:51 [main] INFO  testCases.TC003_LoginDDT - *****Click on my account*****
+2025-09-02 00:10:52 [main] INFO  testCases.TC003_LoginDDT - Enter Email in The Email text field
+2025-09-02 00:10:52 [main] INFO  testCases.TC003_LoginDDT - Enter pass in The pass text field
+2025-09-02 00:10:53 [main] INFO  testCases.TC003_LoginDDT - Click on the login btn
+2025-09-02 00:10:58 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC_003_LoginDDT*****
+2025-09-02 00:10:58 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC_003_LogintDDT*****
+2025-09-02 00:10:59 [main] INFO  testCases.TC003_LoginDDT - *****Click on my account*****
+2025-09-02 00:10:59 [main] INFO  testCases.TC003_LoginDDT - Enter Email in The Email text field
+2025-09-02 00:10:59 [main] INFO  testCases.TC003_LoginDDT - Enter pass in The pass text field
+2025-09-02 00:11:00 [main] INFO  testCases.TC003_LoginDDT - Click on the login btn
+2025-09-02 00:15:57 [main] INFO  testCases.TC003_LoginDDT - **** launching Browser  ****
+2025-09-02 00:15:57 [main] INFO  testCases.TC003_LoginDDT - **** application launched ****
+2025-09-02 00:15:59 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC_003_LogintDDT*****
+2025-09-02 00:16:00 [main] INFO  testCases.TC003_LoginDDT - *****Click on my account*****
+2025-09-02 00:16:00 [main] INFO  testCases.TC003_LoginDDT - Enter Email in The Email text field
+2025-09-02 00:16:01 [main] INFO  testCases.TC003_LoginDDT - Enter pass in The pass text field
+2025-09-02 00:16:02 [main] INFO  testCases.TC003_LoginDDT - Click on the login btn
+2025-09-02 00:16:03 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC_003_LoginDDT*****
+2025-09-02 00:16:03 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC_003_LogintDDT*****
+2025-09-02 00:16:03 [main] INFO  testCases.TC003_LoginDDT - *****Click on my account*****
+2025-09-02 00:16:04 [main] INFO  testCases.TC003_LoginDDT - Enter Email in The Email text field
+2025-09-02 00:16:04 [main] INFO  testCases.TC003_LoginDDT - Enter pass in The pass text field
+2025-09-02 00:16:05 [main] INFO  testCases.TC003_LoginDDT - Click on the login btn
+2025-09-02 00:16:10 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC_003_LoginDDT*****
+2025-09-02 00:16:10 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC_003_LogintDDT*****
+2025-09-02 00:16:10 [main] INFO  testCases.TC003_LoginDDT - *****Click on my account*****
+2025-09-02 00:16:11 [main] INFO  testCases.TC003_LoginDDT - Enter Email in The Email text field
+2025-09-02 00:16:11 [main] INFO  testCases.TC003_LoginDDT - Enter pass in The pass text field
+2025-09-02 00:16:12 [main] INFO  testCases.TC003_LoginDDT - Click on the login btn
+2025-09-02 00:16:13 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC_003_LogintDDT*****
+2025-09-02 00:16:13 [main] INFO  testCases.TC003_LoginDDT - *****Click on my account*****
+2025-09-02 00:16:14 [main] INFO  testCases.TC003_LoginDDT - Enter Email in The Email text field
+2025-09-02 00:16:14 [main] INFO  testCases.TC003_LoginDDT - Enter pass in The pass text field
+2025-09-02 00:16:15 [main] INFO  testCases.TC003_LoginDDT - Click on the login btn
+2025-09-02 00:16:20 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC_003_LoginDDT*****
+2025-09-02 00:16:20 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC_003_LogintDDT*****
+2025-09-02 00:16:20 [main] INFO  testCases.TC003_LoginDDT - *****Click on my account*****
+2025-09-02 00:16:21 [main] INFO  testCases.TC003_LoginDDT - Enter Email in The Email text field
+2025-09-02 00:16:22 [main] INFO  testCases.TC003_LoginDDT - Enter pass in The pass text field
+2025-09-02 00:16:23 [main] INFO  testCases.TC003_LoginDDT - Click on the login btn
+2025-09-02 00:22:02 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** launching Browser  ****
+2025-09-02 00:22:03 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** application launched ****
+2025-09-02 00:22:05 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationpage ****
+2025-09-02 00:22:06 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - clicked on my account Link 
+2025-09-02 00:22:07 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - clicked on Register Link 
+2025-09-02 00:22:07 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - providing customer details....
+2025-09-02 00:22:10 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2025-09-02 00:22:10 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationpage ****
+2025-09-02 00:22:51 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** launching Browser  ****
+2025-09-02 00:22:52 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** application launched ****
+2025-09-02 00:22:53 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationpage ****
+2025-09-02 00:22:53 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - clicked on my account Link 
+2025-09-02 00:22:54 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - clicked on Register Link 
+2025-09-02 00:22:54 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - providing customer details....
+2025-09-02 00:22:57 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2025-09-02 00:22:57 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationpage ****
+2025-09-02 00:24:01 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** launching Browser  ****
+2025-09-02 00:24:02 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** application launched ****
+2025-09-02 00:24:02 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationpage ****
+2025-09-02 00:24:03 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - clicked on my account Link 
+2025-09-02 00:24:04 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - clicked on Register Link 
+2025-09-02 00:24:04 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - providing customer details....
+2025-09-02 00:24:07 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2025-09-02 00:24:07 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationpage ****
+2025-09-13 13:46:45 [main] INFO  testCases.TC001_AccountRegistrationTest - **** launching Browser  ****
+2025-09-13 13:46:47 [main] INFO  testCases.TC001_AccountRegistrationTest - **** application launched ****
+2025-09-13 13:46:47 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationpage ****
+2025-09-13 13:46:47 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on my account Link 
+2025-09-13 13:46:48 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on Register Link 
+2025-09-13 13:46:48 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details....
+2025-09-13 13:46:50 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2025-09-13 13:46:50 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationpage ****
+2025-09-13 13:49:23 [main] INFO  testCases.TC001_AccountRegistrationTest - **** launching Browser  ****
+2025-09-13 13:49:24 [main] INFO  testCases.TC001_AccountRegistrationTest - **** application launched ****
+2025-09-13 13:49:24 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationpage ****
+2025-09-13 13:49:25 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on my account Link 
+2025-09-13 13:49:26 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on Register Link 
+2025-09-13 13:49:26 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details....
+2025-09-13 13:49:28 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2025-09-13 13:49:28 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationpage ****
+2025-09-13 13:58:10 [main] INFO  testCases.TC001_AccountRegistrationTest - **** launching Browser  ****
+2025-09-13 13:58:15 [main] INFO  testCases.TC001_AccountRegistrationTest - **** application launched ****
+2025-09-13 13:58:16 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationpage ****
+2025-09-13 13:58:16 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on my account Link 
+2025-09-13 13:58:19 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on Register Link 
+2025-09-13 13:58:19 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details....
+2025-09-13 13:58:23 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2025-09-13 13:58:23 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationpage ****
