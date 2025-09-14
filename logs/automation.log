@@ -614,3 +614,27 @@
 2025-09-13 13:58:19 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details....
 2025-09-13 13:58:23 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
 2025-09-13 13:58:23 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationpage ****
+2025-09-14 18:48:56 [main] INFO  testCases.TC001_AccountRegistrationTest - **** launching Browser  ****
+2025-09-14 18:48:57 [main] INFO  testCases.TC001_AccountRegistrationTest - **** application launched ****
+2025-09-14 18:48:59 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationpage ****
+2025-09-14 18:49:00 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on my account Link 
+2025-09-14 18:49:01 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on Register Link 
+2025-09-14 18:49:01 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details....
+2025-09-14 18:49:03 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2025-09-14 18:49:03 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationpage ****
+2025-09-14 19:00:16 [main] INFO  testCases.TC001_AccountRegistrationTest - **** launching Browser  ****
+2025-09-14 19:00:17 [main] INFO  testCases.TC001_AccountRegistrationTest - **** application launched ****
+2025-09-14 19:00:18 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationpage ****
+2025-09-14 19:00:18 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on my account Link 
+2025-09-14 19:00:20 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on Register Link 
+2025-09-14 19:00:20 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details....
+2025-09-14 19:00:22 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2025-09-14 19:00:22 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationpage ****
+2025-09-14 19:01:36 [main] INFO  testCases.TC001_AccountRegistrationTest - **** launching Browser  ****
+2025-09-14 19:01:37 [main] INFO  testCases.TC001_AccountRegistrationTest - **** application launched ****
+2025-09-14 19:01:37 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationpage ****
+2025-09-14 19:01:38 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on my account Link 
+2025-09-14 19:01:38 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on Register Link 
+2025-09-14 19:01:38 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details....
+2025-09-14 19:01:40 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2025-09-14 19:01:40 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationpage ****
